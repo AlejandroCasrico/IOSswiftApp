@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B80A2B5F-5AB6-4562-816C-5CA047D72058"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "605C688C-0FDF-4E21-B8C5-B782EDE04946"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ULSA2023/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "605C688C-0FDF-4E21-B8C5-B782EDE04946 - 3a31666625f421b0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ULSA2023.ViewController.txtGrados.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ULSA2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrocasillas/Desktop/ULSA2023/ULSA2023/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "605C688C-0FDF-4E21-B8C5-B782EDE04946 - b4b16346a3ea25a4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ULSA2023.ViewController.txtGrados.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ULSA2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrocasillas/Desktop/ULSA2023/ULSA2023/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "605C688C-0FDF-4E21-B8C5-B782EDE04946 - f193db0d8a3cd0b7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ULSA2023.ViewController.txtGrados.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ULSA2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrocasillas/Desktop/ULSA2023/ULSA2023/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "605C688C-0FDF-4E21-B8C5-B782EDE04946 - ce235566bc32e948"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ULSA2023.ViewController.txtGrados.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ULSA2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrocasillas/Desktop/ULSA2023/ULSA2023/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "605C688C-0FDF-4E21-B8C5-B782EDE04946 - ac2801bd821e0561"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ULSA2023.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ULSA2023.ViewController"
+                  moduleName = "ULSA2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrocasillas/Desktop/ULSA2023/ULSA2023/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "605C688C-0FDF-4E21-B8C5-B782EDE04946 - 9ba5bdfa3d72ac3f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ULSA2023.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ULSA2023.ViewController&gt;"
+                  moduleName = "ULSA2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrocasillas/Desktop/ULSA2023/ULSA2023/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

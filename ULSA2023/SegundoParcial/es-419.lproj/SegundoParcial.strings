@@ -1,0 +1,96 @@
+
+/* Class = "UIButton"; configuration.title = "Ciclo de vida"; ObjectID = "0qd-Zk-UQr"; */
+"0qd-Zk-UQr.configuration.title" = "Ciclo de vida";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0qd-Zk-UQr"; */
+"0qd-Zk-UQr.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "SegundoParcial"; ObjectID = "6t9-GW-CPC"; */
+"6t9-GW-CPC.title" = "SegundoParcial";
+
+/* Class = "UILabel"; text = "Vista Detalle"; ObjectID = "A5f-os-3Vo"; */
+"A5f-os-3Vo.text" = "Vista Detalle";
+
+/* Class = "UILabel"; text = "24"; ObjectID = "CiY-ko-7RK"; */
+"CiY-ko-7RK.text" = "24";
+
+/* Class = "UIButton"; configuration.title = "Shoot clock"; ObjectID = "D1N-uv-s1q"; */
+"D1N-uv-s1q.configuration.title" = "Shoot clock";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D1N-uv-s1q"; */
+"D1N-uv-s1q.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "G7h-qp-eBS"; */
+"G7h-qp-eBS.text" = "Name:";
+
+/* Class = "UITextField"; placeholder = "Telefono"; ObjectID = "JD5-bQ-V5Y"; */
+"JD5-bQ-V5Y.placeholder" = "Telefono";
+
+/* Class = "UIButton"; configuration.title = "Reset"; ObjectID = "LgL-85-Zr8"; */
+"LgL-85-Zr8.configuration.title" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LgL-85-Zr8"; */
+"LgL-85-Zr8.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Gestos"; ObjectID = "Pgt-Z4-PR4"; */
+"Pgt-Z4-PR4.configuration.title" = "Gestos";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pgt-Z4-PR4"; */
+"Pgt-Z4-PR4.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Direccion"; ObjectID = "RBb-2p-PCY"; */
+"RBb-2p-PCY.placeholder" = "Direccion";
+
+/* Class = "UILabel"; text = "Telefono"; ObjectID = "Rdd-VL-Lho"; */
+"Rdd-VL-Lho.text" = "Telefono";
+
+/* Class = "UIButton"; configuration.title = "Enviar"; ObjectID = "SXr-jv-17A"; */
+"SXr-jv-17A.configuration.title" = "Enviar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SXr-jv-17A"; */
+"SXr-jv-17A.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Nombre"; ObjectID = "Tlz-kf-r5M"; */
+"Tlz-kf-r5M.placeholder" = "Nombre";
+
+/* Class = "UIButton"; configuration.title = "MostrarDetalle"; ObjectID = "ZDj-xl-3i3"; */
+"ZDj-xl-3i3.configuration.title" = "MostrarDetalle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZDj-xl-3i3"; */
+"ZDj-xl-3i3.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "FaceId"; ObjectID = "bld-xG-ag0"; */
+"bld-xG-ag0.configuration.title" = "FaceId";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bld-xG-ag0"; */
+"bld-xG-ag0.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Lottie"; ObjectID = "ctV-9I-pPI"; */
+"ctV-9I-pPI.configuration.title" = "Lottie";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ctV-9I-pPI"; */
+"ctV-9I-pPI.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Internacionalizacion y data"; ObjectID = "guz-8T-Oft"; */
+"guz-8T-Oft.configuration.title" = "Internacionalizacion y data";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "guz-8T-Oft"; */
+"guz-8T-Oft.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Start"; ObjectID = "uj2-wX-XuU"; */
+"uj2-wX-XuU.configuration.title" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uj2-wX-XuU"; */
+"uj2-wX-XuU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Direccion"; ObjectID = "vp4-lI-RdK"; */
+"vp4-lI-RdK.text" = "Direccion";
+
+/* Class = "UILabel"; text = "."; ObjectID = "w2S-bE-TcO"; */
+"w2S-bE-TcO.text" = ".";
+
+/* Class = "UIButton"; configuration.title = "Face Id"; ObjectID = "ziU-9U-Hkq"; */
+"ziU-9U-Hkq.configuration.title" = "Face Id";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ziU-9U-Hkq"; */
+"ziU-9U-Hkq.normalTitle" = "Button";
